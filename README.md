@@ -1,6 +1,6 @@
 # react-playerMusic
 
-技术栈 webpack + react + node + ES6
+技术栈 webpack + react + node + jPlayer + ES6
 
 实现功能：
 
